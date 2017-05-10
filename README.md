@@ -1,2 +1,3 @@
-# software project1
-# pull(fetch + merge) test
+Create project: xxx
+This line is added after Commit 1
+This line is added after Commit 2
